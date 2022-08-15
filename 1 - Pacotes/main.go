@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	fmt.Println("teste")
+	fmt.Println("Escrevendo do arquivo main")
 	auxiliar.Escrever()
 }
